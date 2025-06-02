@@ -9,6 +9,8 @@
 
 ###
 
+<h3 align="center">TECHNOLOGIES</h3>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
@@ -41,10 +43,18 @@
 
 ###
 
+<h3 align="center">SOCIALS</h3>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/m-rayyan-h" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="30" width="30" />
   </a>
+  <a href="mailto:rayyan.hossain2050@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="30" width="30" />
+  </a>
+<a href="https://rayyan.codes" target="_blank">
+  <img src="https://rayyan.codes/favicon-32x32.png" height="30" width="30" alt="My Portfolio Icon" />
+</a>
 </div>
 
 ###
