@@ -48,10 +48,6 @@
   <a href="https://www.linkedin.com/in/m-rayyan-h" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="30" alt="linkedin logo" />
   </a>
-  <img width="12" />
-  <a href="mailto:rayyan.hossain2050@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="30" alt="gmail logo" />
-  </a>
 </div>
 
 ###
